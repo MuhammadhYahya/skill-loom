@@ -87,7 +87,7 @@ const ResourceForm = ({ section, courseId }: ResourceFormProps) => {
       </div>
 
       <p className="text-sm font-medium mt-2">
-        Add resources to this section to help students learn better.
+        Add resources to this  section to help students learn better.
       </p>
 
       <div className="mt-5 flex flex-col gap-5">
