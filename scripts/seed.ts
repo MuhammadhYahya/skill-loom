@@ -10,7 +10,7 @@ async function main() {
           create: [
             { name: "Web Development" },
             { name: "Data Science" },
-            { name: "programming" },
+            { name: "Cybersecurity" },
             { name: "Others" },
           ],
         },
